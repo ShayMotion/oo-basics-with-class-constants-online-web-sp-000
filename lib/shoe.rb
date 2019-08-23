@@ -13,4 +13,9 @@ BRANDS = []
     puts "Your shoe is as good as new!"
   end
 
+def BRANDS=(brands)
+    @genre = genre
+    GENRES << genre 
+  end
+  
 end
